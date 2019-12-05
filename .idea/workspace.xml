@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="833ad246-3a34-4354-a6d3-70489f7af3a1" name="Default Changelist" comment="">
+    <list default="true" id="833ad246-3a34-4354-a6d3-70489f7af3a1" name="Default Changelist" comment="测试">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js_regExp.html" beforeDir="false" afterPath="$PROJECT_DIR$/js_regExp.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +53,51 @@
       <updated>1575472315917</updated>
       <workItem from="1575472317202" duration="1023000" />
       <workItem from="1575547620530" duration="2316000" />
-      <workItem from="1575555103695" duration="45000" />
+      <workItem from="1575555103695" duration="2097000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1575556448965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575556448965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试">
+      <created>1575557418745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575557418745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试">
+      <created>1575557498708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575557498708</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试">
+      <created>1575557566129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575557566129</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试">
+      <created>1575557637818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575557637818</updated>
+    </task>
+    <task id="LOCAL-00006" summary="测试">
+      <created>1575557745939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575557745939</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
 </project>
