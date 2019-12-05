@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>function</title>
+</head>
+<body>
+    <script>
+        function add(){
+            var sum = 0;
+            for(var i = 0; i < arguments.length; i ++){
+                sum += arguments[i];
+            }
+            return sum;
+        }
+        // alert(add(1,2,3,4,5,6));
+
+        var arr = new Array(1,"jdajd",true);
+        var arr1 = [5,6,7,8];
+        var arr2 = new Array(10);
+        arr.push(15);
+        arr[10] = "ppp";
+        // document.write(arr.join("@"));
+        document.write(arr2.length);
+    </script>
+</body>
+</html>
