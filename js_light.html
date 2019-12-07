@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>灯泡</title>
+
+</head>
+<body>
+    <img id="1" src="image/1.png">
+<script>
+    var light = document.getElementById("1");
+    var flag = false;
+    light.onclick = function(){
+        if(flag){
+            light.src = "image/1.png";
+            flag = false;
+        }else{
+            light.src = "image/2.png";
+            flag = true;
+        }
+    }
+</script>
+</body>
+</html>
